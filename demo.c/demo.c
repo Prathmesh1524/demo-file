@@ -7,6 +7,8 @@ int main() {
     int c = add(a,b);
     pritnf("The sum of  %d",c);
     
+  printf("Added to check the github actions")
+
     int ans = add(a,b,c);
     pritnf("Addition of three numbers %d",ans);
     return 0; 
